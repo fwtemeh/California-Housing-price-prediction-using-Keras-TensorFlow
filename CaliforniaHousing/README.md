@@ -50,12 +50,12 @@
 
 نمودار زیر روند تغییر Loss و MAE مدل را در طول آموزش نشان می‌دهد:
 
-![Training Metrics](images/training_accuracy.png)
+![training_accuracy](images/training_accuracy.png)
 ## نمودار مقایسه پیشبینی با مقادیر واقعی
 
 
-![Prediction Result](images/predictions_vs_actual.png)
+![predictions_vs_actual Result](images/predictions_vs_actual.png)
 
 ## نمودار تحلیل خطا 
-![Prediction Result](images/error_analysis.png)
+![error_analysis Result](images/error_analysis.png)
 
