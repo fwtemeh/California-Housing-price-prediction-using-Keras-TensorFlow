@@ -25,7 +25,7 @@
 * **لایه پنهان دوم:** Dense با ۱۰ نرون و تابع فعال‌سازی ReLU
 * **Concatenate:** ترکیب ورودی اصلی با خروجی لایه پنهان دوم
 * **لایه خروجی:** Dense با ۱ نرون (پیش‌بینی قیمت - رگرسیون)
-![Training Metrics](images/training.png)
+![training](images/training.png)
 ## دیتاست
 
 دیتاست مورد استفاده، California Housing است که شامل اطلاعات مربوط به بلوک‌های مسکونی در کالیفرنیا می‌باشد:
@@ -52,13 +52,13 @@
 
 نمودار زیر روند تغییر Loss و MAE مدل را در طول آموزش نشان می‌دهد:
 
-![Training Metrics](images/training_accuracy.png)
+![training_accuracy](images/training_accuracy.png)
 ## نمودار مقایسه پیشبینی با مقادیر واقعی
 
 
-![Prediction Result](images/predictions_vs_actual.png)
+![predictions_vs_actual Result](images/predictions_vs_actual.png)
 
 ## نمودار تحلیل خطا 
-![Prediction Result](images/error_analysis.png)
+![error_analysis Result](images/error_analysis.png)
 
 
