@@ -1,4 +1,4 @@
-```markdown
+
 # پیش‌بینی قیمت مسکن کالیفرنیا با Functional API و دو ورودی
 
 یک پروژه یادگیری عمیق با استفاده از TensorFlow و Keras و معماری Functional API برای پیش‌بینی قیمت مسکن در ایالت کالیفرنیا با استفاده از دیتاست California Housing.
