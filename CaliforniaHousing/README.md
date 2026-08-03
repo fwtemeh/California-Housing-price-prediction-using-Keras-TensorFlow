@@ -46,18 +46,16 @@
 * متریک‌ها: MAE
 * استفاده از EarlyStopping برای جلوگیری از بیش‌برازش (Overfitting)
 
-## نتایج آموزش مدل
+## نتایج آموزش مدل 
 
 نمودار زیر روند تغییر Loss و MAE مدل را در طول آموزش نشان می‌دهد:
 
 ![Training Metrics](images/training_metrics.png)
-
-## نتایج مدل
-
-نمونه‌ای از پیش‌بینی مدل روی داده‌های تست:
-
-![Prediction Result](images/prediction_result.png)
+## نمودار مقایسه پیشبینی با مقادیر واقعی
 
 
-##نمودارهای تحلیل خطا
+![Prediction Result](images/predictions_vs_actual.png)
+
+## نمودار تحلیل خطا 
 ![Prediction Result](images/error_analysis.png)
+
