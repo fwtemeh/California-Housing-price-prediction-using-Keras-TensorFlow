@@ -50,14 +50,14 @@
 
 نمودار زیر روند تغییر Loss و MAE مدل را در طول آموزش نشان می‌دهد:
 
-![Training Metrics](CaliforniaHousing/images/training_metrics.png)
+![Training Metrics](images/training_metrics.png)
 
 ## نتایج مدل
 
 نمونه‌ای از پیش‌بینی مدل روی داده‌های تست:
 
-![Prediction Result](CaliforniaHousing/images/prediction_result.png)
+![Prediction Result](images/prediction_result.png)
 
 
 ##نمودارهای تحلیل خطا
-![Prediction Result](CaliforniaHousing/images/error_analysis.png)
+![Prediction Result](images/error_analysis.png)
